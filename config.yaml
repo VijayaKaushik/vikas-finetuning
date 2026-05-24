@@ -1,0 +1,42 @@
+# === Model ===
+model:
+  name: "google/gemma-3-4b-it"  # Change to gemma-3-1b-it for smaller GPU
+  quantization: "4bit"           # "4bit", "8bit", or "none"
+
+# === LoRA ===
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  target_modules:
+    - "q_proj"
+    - "k_proj"
+    - "v_proj"
+    - "o_proj"
+
+# === Data ===
+data:
+  docx_path: "data/Equity_Plan_Management_Guide_Updated.docx"
+  output_dir: "data/equity_hf_dataset"
+  chunk_size: 512           # max tokens per chunk
+  overlap: 64               # token overlap between chunks
+
+# === Training ===
+training:
+  output_dir: "outputs/gemma3-lora"
+  epochs: 3
+  batch_size: 2
+  gradient_accumulation_steps: 4
+  learning_rate: 2.0e-4
+  warmup_ratio: 0.05
+  lr_scheduler: "cosine"
+  max_seq_length: 1024
+  logging_steps: 10
+  save_steps: 100
+  seed: 42
+  bf16: true
+
+# === Wandb (optional) ===
+wandb:
+  enabled: false
+  project: "gemma3-finetune"
