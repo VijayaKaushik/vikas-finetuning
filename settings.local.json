@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python3:*)",
+      "Bash(sudo apt:*)",
+      "Bash(source:*)",
+      "Bash(/mnt/c/Users/vijay/Python-Projects/First_finetune/venv/bin/pip list:*)",
+      "Bash(/mnt/c/Users/vijay/Python-Projects/First_finetune/venv/bin/pip install:*)",
+      "Bash(/mnt/c/Users/vijay/Python-Projects/First_finetune/venv/bin/python3:*)"
+    ]
+  }
+}
