@@ -1,0 +1,1514 @@
+[
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Equity Plan Management"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Domain Knowledge & Terminology Guide"
+  },
+  {
+    "type": "heading",
+    "heading_level": 1,
+    "style": "Heading 1",
+    "text": "Introduction"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Equity plan management encompasses the administration, tracking, and compliance activities related to employee equity compensation programs. These programs include stock options, restricted stock units, performance shares, and other equity-based awards that companies use to attract, retain, and incentivize employees."
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "This document provides comprehensive terminology and domain knowledge essential for understanding equity plan management systems and applications."
+  },
+  {
+    "type": "heading",
+    "heading_level": 1,
+    "style": "Heading 1",
+    "text": "Core Equity Instruments"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Stock Options"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Stock options give employees the right to purchase company shares at a predetermined price within a specific timeframe."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Incentive Stock Options (ISO)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Tax-qualified stock options available only to employees"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Potential for favorable capital gains tax treatment if holding period requirements are met"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Subject to $100,000 annual exercisability limit based on grant date fair market value"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "May trigger Alternative Minimum Tax (AMT) upon exercise"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Must be granted at or above fair market value on grant date"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Non-Qualified Stock Options (NSO/NQSO)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Can be granted to employees, directors, contractors, and consultants"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Spread between exercise price and fair market value taxed as ordinary income upon exercise"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "No $100,000 limit or AMT concerns"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Can be granted at any strike price (though typically at fair market value)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Subject to income tax withholding requirements at exercise"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Restricted Stock Units (RSUs)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "A promise to deliver shares in the future upon satisfaction of vesting conditions. No purchase required by the employee."
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Taxed as ordinary income when shares are delivered upon vesting"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Common settlement methods: net settlement, sell-to-cover, or same-day sale"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "No exercise price or decision required from participant"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "May include dividend equivalents that accrue during vesting period"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Restricted Stock Awards (RSAs)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Actual shares granted upfront subject to vesting conditions and potential forfeiture."
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Shareholder rights (voting, dividends) typically granted immediately"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Taxed at grant or vesting depending on IRC Section 83(b) election"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Section 83(b) election allows taxation at grant instead of vesting, potentially at lower value"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Unvested shares subject to forfeiture if service terminates"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Performance Shares/Units (PSUs)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Equity awards that vest based on achievement of pre-established performance goals over a specified period."
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Performance metrics may include revenue, earnings, total shareholder return, or other KPIs"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Payout can range from 0% to 200% (or more) of target based on performance"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Often includes threshold, target, and maximum performance levels"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Performance period typically 1-3 years"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Stock Appreciation Rights (SARs)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The right to receive the appreciation in stock value between grant and exercise, settled in cash or stock."
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Similar economics to stock options without requiring purchase"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Can be settled in cash, shares, or combination"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Tandem SARs: granted alongside stock options, exercisable alternatively"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Standalone SARs: independent instruments not linked to options"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Employee Stock Purchase Plan (ESPP)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "A program allowing employees to purchase company stock through payroll deductions, often at a discount."
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Qualified ESPPs under IRC Section 423 receive favorable tax treatment"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Offering periods typically 6 months to 2 years"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Purchase price discount up to 15% allowed"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Lookback provision: discount applied to lower of price at offering start or purchase date"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Annual contribution limit of $25,000 (based on fair market value)"
+  },
+  {
+    "type": "heading",
+    "heading_level": 1,
+    "style": "Heading 1",
+    "text": "Key Terminology"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Grant Terms"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Grant Date"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The date on which the equity award is formally approved and awarded to the participant. This date determines the fair market value for accounting and tax purposes and starts vesting schedules."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Fair Market Value (FMV)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The price of the company's stock as determined by the plan administrator, typically using the closing price on the grant date for public companies or an independent valuation (409A) for private companies."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Strike Price / Exercise Price"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The predetermined price at which an option holder can purchase shares when exercising their stock options. For ISOs, must be at least equal to FMV at grant date."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Vesting Schedule"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The timeline over which equity awards become exercisable or non-forfeitable. Common schedules include:"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Cliff vesting: 100% vests at a single point (e.g., 1-year cliff)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Graded/ratable vesting: portions vest periodically (e.g., 25% per year over 4 years)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Monthly vesting: continuous vesting each month"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Performance-based: vests upon achieving specific milestones"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Vesting Commencement Date"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The date from which vesting begins to accrue, may differ from grant date. Often tied to hire date or service start date."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Expiration / Termination Date"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The final date by which options must be exercised or they will be forfeited. Typically 10 years from grant date for ISOs and NSOs, but may be shortened upon termination of service."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Transaction Terms"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Exercise"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The act of purchasing shares by paying the exercise price for vested stock options. Exercise methods include:"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Cash exercise: paying exercise price in cash"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Cashless/same-day sale: exercising and immediately selling shares to cover costs"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Stock swap: using already-owned shares to pay exercise price"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Net exercise: company withholds shares to cover exercise price"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Settlement"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The delivery of shares following vesting of RSUs or exercise of options. Settlement timing may be immediate, delayed, or at participant election."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Release"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The process of removing restrictions on shares, allowing them to be freely traded. For restricted stock, this occurs when vesting conditions are satisfied."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Forfeiture"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The loss of unvested equity awards, typically occurring when employment terminates before vesting is complete or when performance conditions are not met."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Cancellation"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The termination of equity awards by the company or participant, which may be voluntary or involuntary. Vested options not exercised by expiration date are cancelled."
+  },
+  {
+    "type": "heading",
+    "heading_level": 1,
+    "style": "Heading 1",
+    "text": "Tax and Compliance Terminology"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Tax Events and Treatment"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Bargain Element / Spread"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The difference between the fair market value of stock and the exercise price paid. This amount represents taxable income for NSOs at exercise."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Disqualifying Disposition"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Sale of ISO shares that does not meet the required holding periods (1 year from exercise and 2 years from grant), causing the transaction to be taxed as ordinary income rather than capital gains."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Qualifying Disposition"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Sale of ISO shares after meeting both holding period requirements, allowing favorable long-term capital gains tax treatment on the entire gain."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Withholding"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Tax amounts deducted from equity compensation to satisfy federal, state, and local income tax obligations. Methods include:"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Share withholding: company retains shares to cover tax liability"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Cash payment: participant pays taxes in cash"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Sell-to-cover: broker sells sufficient shares to cover taxes"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "IRC Section 409A"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "IRS regulations governing deferred compensation, including equity awards. Requires that options be granted at fair market value and that deferred compensation comply with strict distribution rules. Violations result in immediate taxation and 20% penalty."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "409A Valuation"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Independent appraisal of a private company's common stock value, required for determining FMV for option grants and ensuring 409A compliance. Typically valid for 12 months or until a material event."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "IRC Section 162(m)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Tax code provision limiting corporate tax deductions for compensation over $1 million paid to certain executives, affecting how public companies structure equity compensation."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "IRC Section 280G"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Governs golden parachute payments (excess payments in connection with change in control). Equity awards may be subject to excise taxes if they constitute excess parachute payments."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Regulatory Compliance"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "ASC 718 / FAS 123R"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Accounting standard requiring companies to measure and recognize compensation expense for equity awards based on grant date fair value, typically expensed over the vesting period."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Grant Date Fair Value"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The value assigned to an equity award for accounting purposes, calculated using valuation models such as Black-Scholes for options or market price for full-value awards."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Section 16"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Securities Exchange Act provisions requiring corporate insiders (officers, directors, 10% shareholders) to report transactions and potentially disgorge short-swing profits."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Rule 10b5-1 Plan"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Pre-established trading plan allowing insiders to sell stock at predetermined times or prices, providing an affirmative defense against insider trading allegations."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Blackout Period"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Time period during which certain individuals (typically insiders) are prohibited from trading company stock, often surrounding earnings announcements or other material events."
+  },
+  {
+    "type": "heading",
+    "heading_level": 1,
+    "style": "Heading 1",
+    "text": "Plan Administration"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Plan Structure"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Share Reserve / Pool"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The total number of shares authorized for issuance under an equity plan. Plans typically have fixed pools that may be replenished through share recycling or shareholder approval."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Evergreen Provision"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "An automatic annual increase to the share pool, typically calculated as a percentage of outstanding shares. Common in private company plans."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Share Recycling"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The return of shares to the plan's available pool under certain circumstances, such as:"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Forfeiture of unvested awards"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Expiration of unexercised options"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Cancellation or cash settlement of awards"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Note: Shares used for tax withholding or option exercise typically do NOT return to pool"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Dilution"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The reduction in existing shareholders' ownership percentage resulting from issuance of new equity awards. Measured by overhang and annual burn rate metrics."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Overhang"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Total potential dilution from equity compensation, calculated as (outstanding equity awards + shares available for grant) divided by (fully diluted shares outstanding). Institutional investors monitor this metric closely."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Burn Rate"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The annual rate at which a company grants equity awards, typically expressed as a percentage of shares outstanding. Calculated as (shares granted in year) / (weighted average shares outstanding)."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Plan Provisions"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Change in Control (CIC)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Event triggering special provisions in equity plans, typically including merger, acquisition, or change in board majority. May result in:"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Accelerated vesting of equity awards"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Cash-out of awards"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Assumption or substitution of awards by acquirer"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Single-Trigger Acceleration"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Vesting acceleration that occurs upon a change in control event alone, without requiring termination of employment."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Double-Trigger Acceleration"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Vesting acceleration requiring both a change in control AND termination without cause or for good reason within a specified period (typically 12-18 months). More common and shareholder-friendly than single-trigger."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Clawback / Recoupment"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Company's right to recover equity compensation under certain circumstances, such as financial restatement, violation of restrictive covenants, or misconduct. Required by SEC rules for public companies."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Post-Termination Exercise Period (PTEP)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "The time period after termination during which vested options remain exercisable. Typical periods:"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "90 days for voluntary resignation or termination for cause"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "12 months for termination due to death or disability"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Extended periods may be offered for retirement-eligible employees"
+  },
+  {
+    "type": "heading",
+    "heading_level": 1,
+    "style": "Heading 1",
+    "text": "Corporate Actions and Events"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Equity Adjustments"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Stock Split"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Division of existing shares into multiple shares. For example, a 2-for-1 split doubles share count and halves price. Equity awards are proportionally adjusted to maintain economic value."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Reverse Stock Split"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Consolidation of shares at a specified ratio (e.g., 1-for-5), reducing share count and increasing per-share price. Awards adjusted proportionally."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Dividend"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Distribution of earnings to shareholders. Cash dividends generally do not affect equity awards, but plans may provide dividend equivalents that track dividends paid on underlying shares."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Stock Dividend / Stock Distribution"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Payment of dividend in shares rather than cash. Awards are adjusted to reflect the additional shares received."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Spin-off"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Creation of independent company through distribution of subsidiary shares to existing shareholders. Parent company awards may be adjusted or supplemented with subsidiary awards to preserve value."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Recapitalization / Reorganization"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Restructuring of company's capital structure, potentially involving exchange of securities. Equity awards adjusted to reflect new capital structure while maintaining intrinsic value."
+  },
+  {
+    "type": "heading",
+    "heading_level": 1,
+    "style": "Heading 1",
+    "text": "System and Operational Terminology"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Data Management"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Participant"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Individual who has been granted equity awards. Also referred to as optionee, grantee, or award holder."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Grant / Award ID"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Unique identifier assigned to each equity grant for tracking and administrative purposes."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Lot"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "A distinct group of shares from a specific grant with unique tax characteristics. Important for tax lot accounting and determining cost basis for sales."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Position"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Current status of a participant's equity holdings, including grants, vested shares, exercisable options, and shares owned."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Transaction History"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Complete record of all events affecting equity awards, including grants, vesting events, exercises, releases, forfeitures, and sales. Essential audit trail for compliance and reporting."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Reporting and Analytics"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Gain Report"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Analysis showing unrealized or realized gains on equity awards, calculated as difference between current/sale price and exercise/grant price."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Equity Compensation Expense"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Accounting charge recognized over vesting period based on grant date fair value of equity awards, required under ASC 718."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Underwater Options"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Stock options with exercise price higher than current fair market value, making them economically worthless until stock price increases. Also called 'out-of-the-money' options."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "In-the-Money Options"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Options with exercise price below current fair market value, having intrinsic value equal to the spread."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Equity Award Summary"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Participant-facing statement showing all equity holdings, including grant details, vesting schedules, exercisable quantities, and current values."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "System Features"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Participant Portal / Self-Service"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Online platform where participants can view equity holdings, execute transactions, update personal information, and access tax documents."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Automated Workflows"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "System-driven processes for routine tasks such as vesting calculations, exercise processing, tax withholding, and regulatory filings."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Integration"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Connection between equity management system and other enterprise systems:"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "HRIS (employee data, terminations, job changes)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Payroll (tax withholding, W-2 reporting)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "General ledger (expense recognition, journal entries)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Transfer agent (share issuance, certificates)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Brokerage (trading, settlement)"
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Broker-Assisted Transactions"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Exercise and sale transactions facilitated through integrated brokerage platform, enabling cashless exercises and same-day sales."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Document Generation"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Automated creation of grant agreements, exercise confirmations, tax forms, and participant communications based on system data."
+  },
+  {
+    "type": "heading",
+    "heading_level": 3,
+    "style": "Heading 3",
+    "text": "Modeling and Forecasting"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Tools for projecting future dilution, expense, cash flow, and share usage under various grant scenarios and assumptions."
+  },
+  {
+    "type": "heading",
+    "heading_level": 1,
+    "style": "Heading 1",
+    "text": "Best Practices and Considerations"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Data Quality and Governance"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Maintain single source of truth for all equity data"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Implement robust reconciliation processes between equity system and general ledger"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Document all plan interpretations and administrative decisions"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Establish clear approval hierarchies and segregation of duties"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Regular audit trails and exception reporting"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Compliance Management"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Stay current with evolving tax, accounting, and securities regulations"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Coordinate with legal, tax, and finance teams on plan design changes"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Ensure timely and accurate regulatory filings (Form 4, Form 5, proxy disclosure)"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Monitor insider trading compliance and blackout period adherence"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Validate 409A valuations and compliance for private companies"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Participant Experience"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Provide clear, accessible education on equity compensation"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Ensure participant portal is intuitive and mobile-friendly"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Deliver timely notifications for vesting events and expiration warnings"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Offer decision-support tools for exercise and tax planning"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Provide responsive customer support for transaction questions"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "System Selection and Implementation"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Evaluate scalability to support company growth and complexity"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Assess integration capabilities with existing enterprise systems"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Consider global capabilities for international equity programs"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Validate reporting and analytics functionality"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Ensure vendor provides regular regulatory updates and system enhancements"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "List Paragraph",
+    "text": "Plan for thorough data migration and validation during implementation"
+  },
+  {
+    "type": "heading",
+    "heading_level": 1,
+    "style": "Heading 1",
+    "text": "Company Profile: Vijaya_equity"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Vijaya_equity is a leading equity plan management firm specializing in end-to-end administration of employee equity compensation programs for both private and public companies. Founded with a mission to simplify complex equity processes, Vijaya_equity combines deep domain expertise with modern technology to deliver accurate, compliant, and participant-friendly equity management solutions."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "How Vijaya_equity Executes Equity Plan Management"
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Grant Administration"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Vijaya_equity manages the full lifecycle of equity grants, including stock options (ISO and NSO), RSUs, RSAs, PSUs, SARs, and ESPPs. Upon receiving board-approved grant data, the team validates grant details against plan documents, confirms fair market value using either exchange closing prices or current 409A valuations for private companies, and uploads all grant records into the equity management platform. Grant agreements are generated and distributed electronically, with participant acknowledgment tracked within the system."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Vesting and Compliance Tracking"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Vijaya_equity configures and monitors vesting schedules for all award types, including cliff, graded, monthly, and performance-based vesting. The team coordinates with the client’s HRIS to capture employment events such as terminations, leaves of absence, and role changes, and adjusts vesting accordingly. Automated alerts notify administrators and participants of upcoming vesting milestones and expiration dates. For PSU awards, Vijaya_equity works with the compensation committee to determine performance outcomes at the end of each performance period and processes payouts based on certified results."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Transaction Processing"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Vijaya_equity processes all equity transactions including option exercises (cash, cashless, net exercise, and stock swap), RSU releases, RSA lapse of restrictions, and ESPP purchases. Each transaction is reviewed for compliance with plan terms and insider trading policies, including blackout period checks and Section 16 reporting requirements. Tax withholding calculations are performed for each event using current supplemental tax rates, and tax proceeds are remitted to payroll in coordination with the client’s payroll provider."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Tax and Regulatory Compliance"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Vijaya_equity maintains strict compliance with applicable tax codes and securities regulations. The team prepares year-end tax reporting including Form W-2 supplemental income reconciliation, Form 1099-B for option exercises and RSU sales, and ISO qualifying and disqualifying disposition tracking. For public company clients, Vijaya_equity supports Section 16 reporting by preparing Form 4 filings and maintaining Rule 10b5-1 plan records. The firm also ensures ASC 718 expense recognition data is delivered to finance teams on a monthly basis, aligned with grant date fair values and vesting amortization schedules."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Participant Experience and Support"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Vijaya_equity operates a secure participant portal where employees can view their equity holdings, initiate transactions, access vesting schedules, and download tax documents. The portal features real-time stock price data, gain modeling tools, and mobile-friendly design to ensure accessibility across devices. A dedicated support team handles participant inquiries regarding grant details, exercise mechanics, and tax implications, providing timely and accurate responses with escalation paths to senior administrators for complex issues."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Corporate Actions and Plan Governance"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Vijaya_equity manages equity award adjustments resulting from corporate actions such as stock splits, reverse splits, spin-offs, and mergers or acquisitions. In change-in-control scenarios, the team evaluates plan provisions to determine whether single-trigger or double-trigger acceleration applies, coordinates cash-out or assumption of awards, and communicates clearly with participants throughout the transition. Share pool reconciliations, burn rate analysis, and overhang reporting are delivered quarterly to the board and compensation committee to support plan governance decisions."
+  },
+  {
+    "type": "heading",
+    "heading_level": 2,
+    "style": "Heading 2",
+    "text": "Technology and Integration"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Vijaya_equity’s platform integrates with leading HRIS, payroll, general ledger, transfer agent, and brokerage systems, enabling seamless data flow across the enterprise. Automated workflows reduce manual intervention and associated errors, while comprehensive audit trails and exception reports support internal controls and external audits. The firm continuously invests in platform enhancements to reflect regulatory changes, ensuring clients remain compliant as rules evolve."
+  },
+  {
+    "type": "heading",
+    "heading_level": 1,
+    "style": "Heading 1",
+    "text": "Conclusion"
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "Effective equity plan management requires deep understanding of complex instruments, regulations, tax implications, and administrative processes. Modern equity management systems must balance sophisticated functionality with ease of use, ensuring compliance while delivering value to both companies and participants."
+  },
+  {
+    "type": "body",
+    "heading_level": null,
+    "style": "Normal",
+    "text": "This terminology guide serves as a foundation for understanding the equity compensation domain. Practitioners should stay informed of regulatory changes, emerging best practices, and evolving technology capabilities to effectively manage equity programs in an increasingly complex environment."
+  }
+]
